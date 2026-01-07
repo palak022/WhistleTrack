@@ -1,2 +1,53 @@
-# WhistleTrack
-WhistleTrack is an admin-focused data analytics dashboard built using Excel, MySQL, and Power BI to analyze whistleblower complaints. It provides insights into complaint trends, risk levels, resolution status, and department-wise issues to support data-driven compliance and management decisions.
+# 🚨 WhistleTrack – Admin Analytics Dashboard  
+### 📊 Excel | MySQL | Power BI
+
+---
+
+## 🔍 Project Overview
+**WhistleTrack** is an **admin-focused data analytics dashboard** designed to help organizations analyze whistleblower complaints.  
+It converts raw data into actionable insights using **Excel, MySQL, and Power BI**, with a strong focus on **risk analysis and compliance monitoring**.
+
+---
+
+## 🎯 Project Objectives
+✔ Analyze 1000 complaint records  
+✔ Identify high-risk & pending cases  
+✔ Track resolution performance  
+✔ Enable data-driven admin decisions  
+
+---
+
+## 🛠️ Tech Stack Used
+| Tool | Purpose |
+|-----|--------|
+| 📘 Excel | Data cleaning & preprocessing |
+| 🗄️ MySQL | Complaint database |
+| 🧮 SQL | KPIs & aggregations |
+| 📈 Power BI | Admin dashboard |
+
+---
+## 📸 Screenshots
+
+🔗 **Dashboard Screenshot:**  
+"C:\Users\palak\OneDrive\Pictures\Screenshots\Screenshot 2026-01-07 232753.png"
+
+> This screenshot represents the complete admin analytics dashboard, including KPIs, complaint trends, department-wise analysis, priority distribution, and interactive slicers for decision-making.
+
+
+---
+## 📂 Dataset Details
+The dataset contains **1000 whistleblower reports** with the following fields:
+
+- report_id  
+- employee_name  
+- department  
+- category  
+- description  
+- priority  
+- status  
+- investigator  
+- report_date  
+- resolution_date  
+
+---
+
