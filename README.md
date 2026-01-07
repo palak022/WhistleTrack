@@ -29,7 +29,7 @@ It converts raw data into actionable insights using **Excel, MySQL, and Power BI
 ## 📸 Screenshots
 
 🔗 **Dashboard Screenshot:**  
-"C:\Users\palak\OneDrive\Pictures\Screenshots\Screenshot 2026-01-07 232753.png"
+https://github.com/palak022/WhistleTrack/blob/main/Screenshot%202026-01-07%20232753.png
 
 > This screenshot represents the complete admin analytics dashboard, including KPIs, complaint trends, department-wise analysis, priority distribution, and interactive slicers for decision-making.
 
