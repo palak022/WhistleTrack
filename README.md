@@ -33,6 +33,8 @@ https://github.com/palak022/WhistleTrack/blob/main/Screenshot%202026-01-07%20234
 
 > This screenshot represents the complete admin analytics dashboard, including KPIs, complaint trends, department-wise analysis, priority distribution, and interactive slicers for decision-making.
 
+## 📸 **Demo Video:**
+https://github.com/palak022/WhistleTrack/blob/main/Screen%20Recording%202026-01-07%20234444.mp4
 
 ---
 ## 📂 Dataset Details
